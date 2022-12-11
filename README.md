@@ -1,5 +1,1 @@
-# C_SharpProjects
-
-
-
-
+8 tane mini C# projesi
