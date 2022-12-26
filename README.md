@@ -6,4 +6,4 @@ Hesap Makinesi -
 Not Defteri -
 Asker Dağıtım Otomasyonu -
 Büyük Küçük Ünlü Uyumu -
-(Hepsini tek form içinde yaptım)
+Not : Hepsini tek form içinde yaptım
